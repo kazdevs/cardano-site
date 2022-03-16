@@ -19,7 +19,7 @@ nav_close_hamburger.addEventListener('click', () => {
 })
 
 
-//proofs section
+//proof of stake section
 
 //proofs top elements
 var proofs_one = document.querySelector('.proofs#one');
